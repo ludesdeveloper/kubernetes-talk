@@ -2,7 +2,7 @@
 Let's talk about kubernetes
 
 ----
-### **Options of How We Can Deploy Application**
+### **Options of How We Can Deploy Our Application**
 ![Serverless Evolution](pic/serverless_evolution.png)
 ### **Table Comparison**
 |   | Bare Metal | Virtual Machines | Containers | Functions |
