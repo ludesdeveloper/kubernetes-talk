@@ -43,8 +43,9 @@ for that
 | Plan | Code | Build | Test | Release | Deploy | Operate | Monitor |
 | - | - | - | - | - | - | - | - |
 | Continuous Integration | X | X | X | - | - | - | - |
-| Continuous Integration | X | X | X | X | - | - | - |
-| Continuous Integration | X | X | X | X | X | - | - |
+| Continuous Delivery | X | X | X | X | - | - | - |
+| Continuous Deployment | X | X | X | X | X | - | - |
+| DevOps | X | X | X | X | X | X | X |
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
