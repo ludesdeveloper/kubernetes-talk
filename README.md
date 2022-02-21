@@ -80,4 +80,5 @@ More explanation about [Kubernetes Components](https://kubernetes.io/docs/concep
 | cronjobs |
 | horizontalpodautoscalers |
 | etc |
+
 You can read [here](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) for understanding Kubernetes Objects
