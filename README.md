@@ -20,10 +20,10 @@ B --> C[Kubernetes]
 ### **Learning Linux**
 Everyone has different approach for learning, Me myself learning linux with install linux on my computer, and make it my daily driver, it will
 easier for me to push myself to live in linux terminal. But you also can install it in [WSL](https://docs.microsoft.com/en-us/windows/wsl/install), 
+[VM](https://www.virtualbox.org/), or provision it in Cloud.
 
 Why we need to "taste" linux first before we continue to container? Most of command used in container is unix, linux based command, so it make sense
 if try linux before we go to container
-[VM](https://www.virtualbox.org/), or provision it in Cloud.
 ### **What is Container**
 For detail you can read from [here](https://www.docker.com/resources/what-container), but IMHO, container is how you can package your application
 with it's dependency so you can run it anywhere.
