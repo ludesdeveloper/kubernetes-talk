@@ -13,7 +13,7 @@ Let's talk about kubernetes
 ```mermaid
 flowchart LR
 A[Linux] --> B[Container]
-B --> C[CI/CD]
+B --> C[Pipeline]
 C --> D[Kubernetes]
 ```
 ### **Learning Linux**
@@ -35,18 +35,19 @@ with it's dependency so you can run it anywhere.
 ### **How to Get Your Hands Dirty with Container**
 1. [Install Docker](https://docs.docker.com/get-docker/)
 2. [Create Dockerfile](https://docs.docker.com/language/python/build-images/)
-### **CI/CD**
+### **Pipeline**
 ![CI/CD](pic/CI-CD.png)
-Something will missing if you try to learn kubernetes without try to understand about CI/CD, here is good [article](https://docs.gitlab.com/ee/ci/introduction/)
-for that. IMHO, CI/CD is how we can automate process from your push your code, untill it release, operate, event put some security process inside it
-### **Table Comparison CI/CD**
-| Plan | Code | Build | Test | Release | Deploy | Operate | Monitor | Security |
-| - | - | - | - | - | - | - | - | - |
-| Continuous Integration | X | X | X | - | - | - | - | - |
-| Continuous Delivery | X | X | X | X | - | - | - | - |
-| Continuous Deployment | X | X | X | X | X | - | - | - |
-| DevOps | X | X | X | X | X | X | X | - |
-| DevSecOps | X | X | X | X | X | X | X | X |
+Something will missing if you try to learn kubernetes without try to understand about Pipeline, here is good [article](https://docs.gitlab.com/ee/ci/introduction/)
+for that. IMHO, Pipeline is how we can automate process from your push your code, untill it release, operate, event put some security process inside it
+### **Table Comparison Pipeline**
+| Code | Build | Test | Release | Deploy | Operate | Monitor | Security |
+| - | - | - | - | - | - | - | - |
+| Continuous Integration | X | X | - | - | - | - | - |
+| Continuous Delivery | X | X | X | - | - | - | - |
+| Continuous Deployment | X | X | X | X | - | - | - |
+| DevOps | X | X | X | X | X | X | - |
+| DevSecOps | X | X | X | X | X | X | X |
+| DevSecOps | X | X | X | X | X | X | X |
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
