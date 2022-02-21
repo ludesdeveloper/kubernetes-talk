@@ -28,9 +28,7 @@ if try linux before we go to container
 For detail you can read from [here](https://www.docker.com/resources/what-container), but IMHO, container is how you can package your application
 with it's dependency so you can run it anywhere.
 ### **How to Get Your Hands Dirty with Container**
-1. Get your hands dirty with linux
-> Every command used in Dockerfile is mostly unix, linux based command
-2. [Install Docker](https://docs.docker.com/get-docker/)
-3. [Create Dockerfile](https://docs.docker.com/language/python/build-images/)
+1. [Install Docker](https://docs.docker.com/get-docker/)
+2. [Create Dockerfile](https://docs.docker.com/language/python/build-images/)
 ### **Source**
 [Functions as a Service: Evolution, Use Cases, and Getting Started](https://blogs.oracle.com/developers/post/functions-as-a-service-evolution-use-cases-and-getting-started)
