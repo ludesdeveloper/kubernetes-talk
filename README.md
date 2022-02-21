@@ -8,5 +8,5 @@ Let's talk about kubernetes
 |   | Bare Metal | Virtual Machines | Containers | Functions |
 | - | - | - | - | - |
 | Difficulty of deployment | Hardest  | Hard  | Medium | Easy |
-| Time to deploy | Longest  | Take a long time  | Fast | Very Fast |
+| Time to deploy | Slowest  | Medium  | Fast | Very Fast |
 
