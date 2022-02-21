@@ -13,7 +13,8 @@ Let's talk about kubernetes
 ```mermaid
 flowchart LR
 A[Linux] --> B[Container]
-B --> C[Kubernetes]
+B --> C[CI/CD]
+C --> D[Kubernetes]
 ```
 ### **Learning Linux**
 
