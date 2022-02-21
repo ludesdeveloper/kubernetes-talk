@@ -11,6 +11,6 @@ operating system, runtime, and code
 
 |   | Bare Metal | Virtual Machines | Containers | Functions |
 | - | - | - | - | - |
-|| Content Cell  | Content Cell  | s | s |
+| Difficulty of deployment | Hardest  | Hard  | Medium | Easy |
 |  | Content Cell  | Content Cell  | s | s |
 
