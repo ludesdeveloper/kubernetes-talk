@@ -9,4 +9,4 @@ Let's talk about kubernetes
 | - | - | - | - | - |
 | Difficulty of deployment | Hardest  | Hard  | Medium | Easy |
 | Time to deploy | Slowest  | Medium  | Fast | Very Fast |
-
+| How much do we need Ops | 100 percent yes | Yes we need | If dev understand container, answer is no | Not at all |
