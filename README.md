@@ -60,7 +60,6 @@ for that. IMHO, Pipeline is how we can automate process from your push your code
 | Continuous Delivery | X | X | X | X | - | - | - | - |
 | Continuous Deployment | X | X | X | X | X | - | - | - |
 | DevOps | X | X | X | X | X | X | X | - |
-| DevSecOps | X | X | X | X | X | X | X | - |
 | DevSecOps | X | X | X | X | X | X | X | X |
 > Yeah, there is new kid on the block, GitOps, i'm too confuse too put it in table, check [argo cd](https://argo-cd.readthedocs.io/en/stable/)
 one of GitOps tools/implementation out there
