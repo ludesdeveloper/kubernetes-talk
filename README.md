@@ -11,3 +11,6 @@ Let's talk about kubernetes
 | Deployment difficulty | Hardest  | Hard  | Medium | Easy |
 | Time to deploy | Slowest  | Medium  | Fast | Very Fast |
 | How much do we need SysOps | 100 percent yes | Yes we need | If Dev understand container, answer is no | Not at all |
+### **What is Container**
+### **Source**
+[Functions as a Service: Evolution, Use Cases, and Getting Started](https://blogs.oracle.com/developers/post/functions-as-a-service-evolution-use-cases-and-getting-started)
