@@ -70,4 +70,5 @@ Some feature that i really love is self healing (Don't need Dev to fix app, cuz 
 ### **Kubernetes Components**
 ![Kubernetes Components](pic/components-of-kubernetes.svg)
 More explanation about [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
-
+### **Kubernetes Objects**
+You can read [here](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) for understanding Kubernetes Objects
