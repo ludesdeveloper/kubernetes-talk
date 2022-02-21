@@ -83,3 +83,5 @@ More explanation about [Kubernetes Components](https://kubernetes.io/docs/concep
 > You can issue command `kubectl api-resources` in your cluster
 
 You can read [here](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) for understanding Kubernetes Objects
+### **Interaction with Kubernetes Cluster**
+To install kubectl in your computer, take a look this [article](https://kubernetes.io/docs/tasks/tools/)
