@@ -23,6 +23,7 @@ easier for me to push myself to live in linux terminal. But you also can install
 Why we need to "taste" linux first before we can continue to container? Most of command used in container is unix, linux based command, so it make sense
 if try linux before we go to container
 ### **What is Container**
+![Use containers to Build, Share and Run your applications](pic/container-what-is-container.png)
 For detail you can read from [here](https://www.docker.com/resources/what-container), but IMHO, container is how you can package your application
 with it's dependency so you can run it anywhere.
 ### **How to Get Your Hands Dirty with Container**
