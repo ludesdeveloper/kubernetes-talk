@@ -8,6 +8,6 @@ Let's talk about kubernetes
 |   | Bare Metal | Virtual Machines | Containers | Functions |
 | - | - | - | - | - |
 | Learning curve | Hardest  | Hard  | Medium | Easy |
-| Difficulty of deployment | Hardest  | Hard  | Medium | Easy |
+| Deployment difficulty | Hardest  | Hard  | Medium | Easy |
 | Time to deploy | Slowest  | Medium  | Fast | Very Fast |
 | How much do we need SysOps | 100 percent yes | Yes we need | If dev understand container, answer is no | Not at all |
