@@ -41,5 +41,4 @@ Some feature that i really love is self healing (Don't need Dev to fix app, cuz 
 ### **Kubernetes Components**
 ![Kubernetes Components](pic/components-of-kubernetes.svg)
 [Reference](https://kubernetes.io/docs/concepts/overview/components/)
-### **Source**
-[Functions as a Service: Evolution, Use Cases, and Getting Started](https://blogs.oracle.com/developers/post/functions-as-a-service-evolution-use-cases-and-getting-started)
+
