@@ -6,4 +6,11 @@ Let's talk about kubernetes
 ![Serverless Evolution](pic/serverless_evolution.png)
 1. **Baremetal**. As you can see on the picture, we will need, pretty much everything to deploy our application, from the hardware it self,
 operating system, runtime, and code
+2. **Virtual Machine**. With help of virtual machine technology, now we can create separate vm for our application deployment
+3. **Container**. 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
