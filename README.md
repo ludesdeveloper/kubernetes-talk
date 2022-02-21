@@ -2,7 +2,7 @@
 Let's talk about kubernetes
 ### **Options of How We Can Deploy Our Application**
 ![Serverless Evolution](pic/serverless_evolution.png)
-### **Table Comparison**
+### **Table Comparison Deployment Method**
 |   | Bare Metal | Virtual Machines | Containers | Functions |
 | - | - | - | - | - |
 | Learning curve | Hardest  | Hard  | Medium | Easy |
@@ -39,6 +39,9 @@ with it's dependency so you can run it anywhere.
 ![CI/CD](pic/CI-CD.png)
 Something will missing if you try to learn kubernetes without try to understand about CI/CD, here is good [article](https://docs.gitlab.com/ee/ci/introduction/)
 for that
+### **Table Comparison CI/CD**
+| Plan | Code | Build | Test | Release | Deploy | Operate | Monitor |
+| - | - | - | - | - | - | - | - |
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
