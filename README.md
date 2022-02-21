@@ -10,7 +10,7 @@ operating system, runtime, and code
 3. **Container**. 
 
 | Bare Metal    | Virtual Machines | Containers | Functions
-| ------------- | ------------- | --- | --- |
+| ------------- | ------------- | - | - |
 | Content Cell  | Content Cell  | s | s |
 | Content Cell  | Content Cell  | s | s |
 
