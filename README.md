@@ -72,6 +72,7 @@ Some feature that i really love is self healing (Don't need Dev to fix app, cuz 
 More explanation about [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 ### **Kubernetes Objects**
 | Kubernetes Objects |
+| - |
 | namespaces |
 | nodes |
 | persistentvolumes |
