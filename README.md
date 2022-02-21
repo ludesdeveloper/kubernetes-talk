@@ -16,6 +16,7 @@ For detail you can read from [here](https://www.docker.com/resources/what-contai
 with it's dependency so you can run it anywhere.
 ### **How to Get Your Hands Dirty with Container**
 1. Get your hands dirty with linux
+> Every command used in Dockerfile is mostly unix, linux based command
 2. [Install Docker](https://docs.docker.com/get-docker/)
 3. [Create Dockerfile](https://docs.docker.com/language/python/build-images/)
 ### **Source**
