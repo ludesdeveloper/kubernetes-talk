@@ -40,5 +40,5 @@ Some feature that i really love is self healing (Don't need Dev to fix app, cuz 
 (Don't need Ops to adding new VM when we need it, cuz K8S have capability for automatically adding based on load)
 ### **Kubernetes Components**
 ![Kubernetes Components](pic/components-of-kubernetes.svg)
-[Reference](https://kubernetes.io/docs/concepts/overview/components/)
+[Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 
