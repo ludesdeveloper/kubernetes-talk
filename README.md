@@ -14,10 +14,8 @@ Let's talk about kubernetes
 ### **Where to Start**
 ```mermaid
 flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[Linux] --> B[Container]
+B --> C[Kubernetes]
 ```
 ### **What is Container**
 For detail you can read from [here](https://www.docker.com/resources/what-container), but IMHO, container is how you can package your application
