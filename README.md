@@ -42,6 +42,9 @@ for that
 ### **Table Comparison CI/CD**
 | Plan | Code | Build | Test | Release | Deploy | Operate | Monitor |
 | - | - | - | - | - | - | - | - |
+| Continuous Integration | - | - | - | - | - | - | - |
+| Continuous Integration | - | - | - | - | - | - | - |
+| Continuous Integration | - | - | - | - | - | - | - |
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
