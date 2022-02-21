@@ -34,6 +34,8 @@ with it's dependency so you can run it anywhere.
 ### **How to Get Your Hands Dirty with Container**
 1. [Install Docker](https://docs.docker.com/get-docker/)
 2. [Create Dockerfile](https://docs.docker.com/language/python/build-images/)
+### **CI/CD**
+![CI/CD](pic/CI-CD.png)
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
