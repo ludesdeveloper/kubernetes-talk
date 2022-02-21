@@ -16,7 +16,7 @@ A[Linux] --> B[Container]
 B --> C[Kubernetes]
 ```
 ### **Learning Linux**
-Everyone has different approach for learning, Me myself learning linux with install linux on my computer, and make it my daily driver, it will
+Everyone has different approach for learning, Me myself learning linux with installing linux on my computer, and make it my daily driver, it will
 easier for me to push myself to live in linux terminal. But you also can install it in [WSL](https://docs.microsoft.com/en-us/windows/wsl/install), 
 [VM](https://www.virtualbox.org/), or provision it in Cloud.
 
