@@ -20,7 +20,7 @@ Everyone has different approach for learning, Me myself learning linux with inst
 easier for me to push myself to live in linux terminal. But you also can install it in [WSL](https://docs.microsoft.com/en-us/windows/wsl/install), 
 [VM](https://www.virtualbox.org/), or provision it in Cloud.
 
-Why we need to "taste" linux first before we continue to container? Most of command used in container is unix, linux based command, so it make sense
+Why we need to "taste" linux first before we can continue to container? Most of command used in container is unix, linux based command, so it make sense
 if try linux before we go to container
 ### **What is Container**
 For detail you can read from [here](https://www.docker.com/resources/what-container), but IMHO, container is how you can package your application
