@@ -80,6 +80,6 @@ More explanation about [Kubernetes Components](https://kubernetes.io/docs/concep
 | cronjobs |
 | horizontalpodautoscalers |
 | etc |
-> You can issue command "kubectl api-resources" in your cluster
+> You can issue command `kubectl api-resources` in your cluster
 
 You can read [here](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) for understanding Kubernetes Objects
