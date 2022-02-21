@@ -40,12 +40,13 @@ with it's dependency so you can run it anywhere.
 Something will missing if you try to learn kubernetes without try to understand about CI/CD, here is good [article](https://docs.gitlab.com/ee/ci/introduction/)
 for that
 ### **Table Comparison CI/CD**
-| Plan | Code | Build | Test | Release | Deploy | Operate | Monitor |
-| - | - | - | - | - | - | - | - |
-| Continuous Integration | X | X | X | - | - | - | - |
-| Continuous Delivery | X | X | X | X | - | - | - |
-| Continuous Deployment | X | X | X | X | X | - | - |
-| DevOps | X | X | X | X | X | X | X |
+| Plan | Code | Build | Test | Release | Deploy | Operate | Monitor | Security |
+| - | - | - | - | - | - | - | - | - |
+| Continuous Integration | X | X | X | - | - | - | - | - |
+| Continuous Delivery | X | X | X | X | - | - | - | - |
+| Continuous Deployment | X | X | X | X | X | - | - | - |
+| DevOps | X | X | X | X | X | X | X | - |
+| DevSecOps | X | X | X | X | X | X | X | X |
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
