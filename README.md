@@ -10,4 +10,4 @@ Let's talk about kubernetes
 | Learning curve | Hardest  | Hard  | Medium | Easy |
 | Deployment difficulty | Hardest  | Hard  | Medium | Easy |
 | Time to deploy | Slowest  | Medium  | Fast | Very Fast |
-| How much do we need SysOps | 100 percent yes | Yes we need | If dev understand container, answer is no | Not at all |
+| How much do we need SysOps | 100 percent yes | Yes we need | If Dev understand container, answer is no | Not at all |
