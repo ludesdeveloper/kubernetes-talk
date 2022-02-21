@@ -12,7 +12,8 @@ Let's talk about kubernetes
 9. [What is Kubernetes](https://github.com/ludesdeveloper/kubernetes-talk#what-is-kubernetes)
 10. [Kubernetes Components](https://github.com/ludesdeveloper/kubernetes-talk#kubernetes-components)
 11. [Kubernetes Objects](https://github.com/ludesdeveloper/kubernetes-talk#kubernetes-objects)
-12. [Interaction with Kubernetes Cluster](https://github.com/ludesdeveloper/kubernetes-talk#interaction-with-kubernetes-cluster)
+12. [Create Kubernetes Cluster](https://github.com/ludesdeveloper/kubernetes-talk#create-kubernetes-cluster)
+13. [Interaction with Kubernetes Cluster](https://github.com/ludesdeveloper/kubernetes-talk#interaction-with-kubernetes-cluster)
 ### **Options of How We Can Deploy Our Application**
 ![Serverless Evolution](pic/serverless_evolution.png)
 ### **Table Comparison Deployment Method**
