@@ -17,7 +17,9 @@ B --> C[Kubernetes]
 ```
 ### **Learning Linux**
 ![Linux Thug Life](pic/linux-thug-life.jpeg)
-
+<p align="center">
+  <img width="695" height="494" src="pic/pic/linux-thug-life.jpeg">
+</p>
 Everyone has different approach for learning, Me myself learning linux with installing linux on my computer, and make it my daily driver, it will
 easier for me to push myself to live in linux terminal. But you also can install it in [WSL](https://docs.microsoft.com/en-us/windows/wsl/install), 
 [VM](https://www.virtualbox.org/), or provision it in Cloud.
