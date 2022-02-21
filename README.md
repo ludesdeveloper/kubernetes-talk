@@ -38,7 +38,7 @@ with it's dependency so you can run it anywhere.
 ### **Pipeline**
 ![CI/CD](pic/CI-CD.png)
 Something will missing if you try to learn kubernetes without try to understand about Pipeline, here is good [article](https://docs.gitlab.com/ee/ci/introduction/)
-for that. IMHO, Pipeline is how we can automate process from your push your code, untill it release, operate, event put some security process inside it
+for that. IMHO, Pipeline is how we can automate process from your push your code, untill it release, operate, even put some security process inside it
 ### **Table Comparison Pipeline**
 | | Code | Build | Test | Release | Deploy | Operate | Monitor | Security |
 | - | - | - | - | - | - | - | - | - |
