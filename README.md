@@ -1,5 +1,16 @@
 # **Kubernetes Talk**
 Let's talk about kubernetes
+### **Table of Contents**
+1. [Options of How We Can Deploy Our Application](https://github.com/ludesdeveloper/kubernetes-talk#options-of-how-we-can-deploy-our-application)
+2. [Table Comparison Deployment Method](https://github.com/ludesdeveloper/kubernetes-talk#table-comparison-deployment-method)
+3. [Where to Start](https://github.com/ludesdeveloper/kubernetes-talk#where-to-start)
+4. [Learning Linux](https://github.com/ludesdeveloper/kubernetes-talk#learning-linux)
+5. [What is Container](https://github.com/ludesdeveloper/kubernetes-talk#what-is-container)
+6. [How to Get Your Hands Dirty with Container](https://github.com/ludesdeveloper/kubernetes-talk#how-to-get-your-hands-dirty-with-container)
+7. [Pipeline](https://github.com/ludesdeveloper/kubernetes-talk#pipeline)
+8. [Table Comparison Pipeline](https://github.com/ludesdeveloper/kubernetes-talk#table-comparison-pipeline)
+9. [What is Kubernetes](https://github.com/ludesdeveloper/kubernetes-talk#what-is-kubernetes)
+10. [Kubernetes Components](https://github.com/ludesdeveloper/kubernetes-talk#kubernetes-components)
 ### **Options of How We Can Deploy Our Application**
 ![Serverless Evolution](pic/serverless_evolution.png)
 ### **Table Comparison Deployment Method**
