@@ -49,7 +49,7 @@ for that. IMHO, Pipeline is how we can automate process from your push your code
 | DevSecOps | X | X | X | X | X | X | X | X |
 | DevSecOps | X | X | X | X | X | X | X | X |
 > Yeah there is new kid on the block, GitOps, i'm too confuse too put it in table, check [argo cd](https://argo-cd.readthedocs.io/en/stable/)
-one of GitOps tools out there
+one of GitOps tools/implementation out there
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
