@@ -17,6 +17,9 @@ flowchart LR
 A[Linux] --> B[Container]
 B --> C[Kubernetes]
 ```
+### **Learning Linux**
+Everyone has different approach for learning, Me myself learning linux with install linux on my computer, and make it my daily driver, it will
+easier for me to push myself to live in linux terminal. But you also can install it in VM, or provision it in Cloud.
 ### **What is Container**
 For detail you can read from [here](https://www.docker.com/resources/what-container), but IMHO, container is how you can package your application
 with it's dependency so you can run it anywhere.
