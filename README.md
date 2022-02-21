@@ -36,6 +36,8 @@ with it's dependency so you can run it anywhere.
 2. [Create Dockerfile](https://docs.docker.com/language/python/build-images/)
 ### **CI/CD**
 ![CI/CD](pic/CI-CD.png)
+Something will missing if you try to learn kubernetes without try to understand about CI/CD, here is good [article](https://docs.gitlab.com/ee/ci/introduction/)
+for that
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
