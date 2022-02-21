@@ -16,13 +16,14 @@ A[Linux] --> B[Container]
 B --> C[Kubernetes]
 ```
 ### **Learning Linux**
+
 <p align="center">
   <img width="695" height="494" src="pic/linux-thug-life.jpeg">
 </p>
+
 Everyone has different approach for learning, Me myself learning linux with installing linux on my computer, and make it my daily driver, it will
 easier for me to push myself to live in linux terminal. But you also can install it in [WSL](https://docs.microsoft.com/en-us/windows/wsl/install), 
 [VM](https://www.virtualbox.org/), or provision it in Cloud.
-
 
 Why we need to "taste" linux first before we can continue to container? Most of command used in container is unix, linux based command, so it make sense
 if try linux before we go to container
