@@ -16,7 +16,6 @@ A[Linux] --> B[Container]
 B --> C[Kubernetes]
 ```
 ### **Learning Linux**
-![Linux Thug Life](pic/linux-thug-life.jpeg)
 <p align="center">
   <img width="695" height="494" src="pic/linux-thug-life.jpeg">
 </p>
