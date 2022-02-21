@@ -41,13 +41,13 @@ Something will missing if you try to learn kubernetes without try to understand 
 for that. IMHO, Pipeline is how we can automate process from your push your code, untill it release, operate, event put some security process inside it
 ### **Table Comparison Pipeline**
 | Code | Build | Test | Release | Deploy | Operate | Monitor | Security |
-| - | - | - | - | - | - | - | - |
-| Continuous Integration | X | X | - | - | - | - | - |
-| Continuous Delivery | X | X | X | - | - | - | - |
-| Continuous Deployment | X | X | X | X | - | - | - |
-| DevOps | X | X | X | X | X | X | - |
-| DevSecOps | X | X | X | X | X | X | X |
-| DevSecOps | X | X | X | X | X | X | X |
+| - | - | - | - | - | - | - | - | - |
+| Continuous Integration | X | X | X | - | - | - | - | - |
+| Continuous Delivery | X | X | X | X | - | - | - | - |
+| Continuous Deployment | X | X | X | X | X | - | - | - |
+| DevOps | X | X | X | X | X | X | X | - |
+| DevSecOps | X | X | X | X | X | X | X | X |
+| DevSecOps | X | X | X | X | X | X | X | X |
 ### **What is Kubernetes**
 For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
