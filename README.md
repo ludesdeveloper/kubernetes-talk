@@ -1,7 +1,5 @@
 # **Kubernetes Talk**
 Let's talk about kubernetes
-
-----
 ### **Options of How We Can Deploy Our Application**
 ![Serverless Evolution](pic/serverless_evolution.png)
 ### **Table Comparison**
