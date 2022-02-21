@@ -9,8 +9,8 @@ operating system, runtime, and code
 2. **Virtual Machine**. With help of virtual machine technology, now we can create separate vm for our application deployment
 3. **Container**. 
 
-| Bare Metal    | Virtual Machines | Containers | Functions
-| ------------- | ------------- | - | - |
+| Bare Metal | Virtual Machines | Containers | Functions
+| - | - | - | - |
 | Content Cell  | Content Cell  | s | s |
 | Content Cell  | Content Cell  | s | s |
 
