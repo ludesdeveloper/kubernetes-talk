@@ -28,5 +28,9 @@ with it's dependency so you can run it anywhere.
 ### **How to Get Your Hands Dirty with Container**
 1. [Install Docker](https://docs.docker.com/get-docker/)
 2. [Create Dockerfile](https://docs.docker.com/language/python/build-images/)
+### **What is Kubernetes**
+For TLDR, [check this out](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/). I couldn't describe how much I love K8S (Kubernetes),
+Some feature that i really love is self healing (Don't need Dev to fix app, cuz K8S will replace unhealthy container automatically), and autoscaling 
+(Don't need Ops to adding new VM when we need it, cuz K8S have capability for automatically adding based on load)
 ### **Source**
 [Functions as a Service: Evolution, Use Cases, and Getting Started](https://blogs.oracle.com/developers/post/functions-as-a-service-evolution-use-cases-and-getting-started)
